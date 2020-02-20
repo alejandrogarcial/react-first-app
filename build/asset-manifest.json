@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b685295.chunk.css",
+    "main.js": "/static/js/main.f0c67a9a.chunk.js",
+    "main.js.map": "/static/js/main.f0c67a9a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.70302f69.js",
+    "runtime-main.js.map": "/static/js/runtime-main.70302f69.js.map",
+    "static/css/2.70d9d258.chunk.css": "/static/css/2.70d9d258.chunk.css",
+    "static/js/2.b7ed356a.chunk.js": "/static/js/2.b7ed356a.chunk.js",
+    "static/js/2.b7ed356a.chunk.js.map": "/static/js/2.b7ed356a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1e6da5298b5b6bdacecd3274d01bcbc8.js": "/precache-manifest.1e6da5298b5b6bdacecd3274d01bcbc8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.70d9d258.chunk.css.map": "/static/css/2.70d9d258.chunk.css.map",
+    "static/css/main.6b685295.chunk.css.map": "/static/css/main.6b685295.chunk.css.map",
+    "static/js/2.b7ed356a.chunk.js.LICENSE.txt": "/static/js/2.b7ed356a.chunk.js.LICENSE.txt",
+    "static/media/bulma-logo.png": "/static/media/bulma-logo.6bf9b4da.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70302f69.js",
+    "static/css/2.70d9d258.chunk.css",
+    "static/js/2.b7ed356a.chunk.js",
+    "static/css/main.6b685295.chunk.css",
+    "static/js/main.f0c67a9a.chunk.js"
+  ]
+}
